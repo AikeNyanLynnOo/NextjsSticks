@@ -8,6 +8,7 @@ export default function Header() {
       <Link href="/catchAllRoutes">
         CatchAllRoutes
       </Link>
+      <Link href="/shallowRouting">Shallow Routing</Link>
     </div>
   )
 }
