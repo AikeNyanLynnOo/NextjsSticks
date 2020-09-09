@@ -13,6 +13,7 @@ const Header = () => (
           <a>About</a>
         </Link>
       </li>
+      
       <li>
         <Link href="/post/[id]" as="/post/first">
           <a>First Post</a>

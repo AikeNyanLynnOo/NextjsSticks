@@ -5,6 +5,9 @@ export default function Header() {
     <div>
       <Link href="/">Home</Link>
       <Link href="/about">About</Link>
+      <Link href="/catchAllRoutes">
+        CatchAllRoutes
+      </Link>
     </div>
   )
 }
